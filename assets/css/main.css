@@ -1,0 +1,479 @@
+/* Start Menu  */
+.menu{
+    width: 100%;
+    text-align: center;
+   
+}
+
+.menu a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 13px;
+    padding: 5px;
+    color:black;
+}
+.menu .fitness{
+ 
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    padding: 20px;
+}
+
+.search-icon{
+    margin: 0px 0px 0px 15px;
+    
+}
+
+/* End Menu  */
+
+/* Start HR  */
+.hr-nav {
+    width: 100%;
+
+    margin-top: 15px;
+}
+
+/* End Menu  */
+
+/* Start Background  */
+
+.background-up{
+    width: 95%;
+}
+.background-up-color{
+    width: 100%;
+    float: left;
+    margin-left: 34px;
+    height: 350px;
+    margin-bottom: -500px;
+    opacity: 5%;
+    background:url("https://st4.depositphotos.com/10839834/41470/v/950/depositphotos_414707774-stock-illustration-topographic-map-texture-contour-lines.jpg");
+
+}
+
+/* End Background  */
+
+
+/* Start hr  */
+
+.hr {
+    width: 95%;
+
+    margin: auto;
+    border-top: 1px solid;
+    color: #d4cbcb;
+}
+/* End hr  */
+
+
+/* Start Center  */
+.center-nav {
+    width: 95%;
+
+    margin-top: 25px;
+    float: left;
+
+}
+.left {
+    width: 35%;
+    height: 100%;
+    float: left;
+    
+}
+.work-out-trends{
+    width: 100%;
+    float: left;
+    margin: 0px 0px 0px 180px;
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.the-best{
+    width: 100%;
+    float: left;
+    margin: 0px 0px -14px 180px;
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.the-history{
+    width: 40%;
+    float: left;
+    margin: 14px 0px 0px 180px;
+    text-decoration: none;
+    color: rgb(160 160 160);
+    font-family: sans-serif;
+    font-size: 12px;
+   
+}
+.left-image-1{
+
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.left-bottom-1{
+    width: 100%;
+    float: right;
+    margin-right: -150px;
+    margin-top: 12px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #525252;
+    
+    
+}
+.left-hr-1{
+    width: 46%;
+    margin: auto;
+    border-top: 1px solid;
+    color: #d4cbcb;
+    margin-top: 3px;
+    float: right;
+    margin-right: 110px;
+
+}
+.left-bottom-2{
+    width: 46%;
+    float: right;
+    margin-right: 110px;
+    color: #525252;
+    
+    
+}
+.add-to-my{
+    float:left;
+}
+.add-icon{
+    float: right;
+
+}
+.left-bottom-3{
+    width: 46%;
+    float: right;
+    margin: 10px 110px;
+    color: #525252;
+    
+    
+}
+.share-icons{
+    float:right;
+}
+.right {
+    width: 65%;
+    opacity: 99%;
+    float: left;
+}
+.r-photo-1{
+    width: 95%;
+    float: left;
+
+}
+.right-content-text{
+    width: 100%;
+    float: left;
+}
+.right-content-a{
+    width: 100%;
+    font-size: 100px;
+    margin-bottom: -12px;
+    float: left;
+    font-family: fangsong;
+    font-weight: bold;  
+   
+}
+.content-strong-core{
+    width: 100%;
+    float: left;
+    margin: -80px 0px 0px 55px;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1.3;
+    color: #4d4d4d;
+}
+.content-the-bonus {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    line-height: 1.3;
+    font-family: sans-serif;
+    color: #4d4d4d;
+}
+.content-Its-true{
+    width: 100%;
+    float: left;
+    margin: 0px -2px;
+    font-size: 16px;
+    line-height: 1.3;
+    font-family: sans-serif;
+    color: #4d4d4d;
+}
+
+.content-img{
+    width: 100%;
+}
+
+
+.content-img img{
+    width: 90%;
+    margin: 40px 0px 0px -50px;
+}
+
+.content-time-need{
+    width: 65%;
+    float: left;
+    margin: 65px 0px;
+    padding: 5px;
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: sans-serif;
+    color: rgb(77, 77, 77);
+    background-color: rgba(239, 239, 239, 0.16);
+
+}
+
+.content-pro-tip{
+    width: 100%;
+    float: left;
+    margin: 5px -2px;
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: sans-serif;
+    color: #4d4d4d;
+
+}
+.content-movement-one {
+    width: 100%;
+    float: left;
+    width: 30px;
+    border: 1px solid  #525252;
+    padding: 20px;
+    margin: -6px 20px 0px 0px;
+    text-align: center;
+    border-radius: 70px;
+    color: red;
+    font-size: 25px;
+}
+.content-how-to-movement{
+    width: 100%;
+    float: left;
+    margin: 75px -2px;
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: sans-serif;
+    color: #4d4d4d;
+
+}
+.content-movement-title {
+    width: 100%;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+
+}
+
+.content-movement-img{
+    width: 100%;
+
+}
+
+.content-movement-img img{
+    width: 70%;
+   
+}
+
+
+.button-continue {
+    width: 70%;
+    height: 40px;
+    background-color: #e4e4e461;
+    border: 1px solid #adadad;
+    margin-top:40px;
+}
+/* End Center*/
+
+/* Start Related Articles*/
+.related-articles{
+    width: 90%;
+    background-color: #f8f8f8;
+    float: left;
+    margin-left:75px;
+   
+  
+
+}
+.articles{
+    width: 100%;
+    height: 500px;
+    float: right;
+ 
+
+    
+}
+.related-articles-title{
+    width: 20%;
+    text-decoration: none;
+    color: rgb(101, 101, 101);
+    font-family: -webkit-pictograph;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.articles-item{
+    width: 20%;
+    float: left;
+    padding-left: 45px;
+    font-family: sans-serif;
+    border-right: 1px solid #e2e2e2c2;
+
+    
+}
+.articles-content{
+    text-align: left;
+}
+.articles-history{
+
+    width: 100%;
+    text-decoration: none;
+    color: rgb(160 160 160);
+    font-family: sans-serif;
+    font-size: 12px;
+    margin: 20px 0px -12px 0;
+
+}
+
+.articles-educator{
+    width: 100%;
+    text-decoration: none;
+    color: rgb(160 160 160);
+    font-family: sans-serif;
+    font-size: 12px;
+
+}
+
+.related-articles-img{
+    width: 100%;
+}
+.related-articles-img img{
+    width: 70%;
+}
+.articles-content{
+    color: #0c0c0c;
+    font-size: 20px;
+    color: #0c0c0c;
+    font-size: 20px;
+    font-family: math;
+    font-weight: 600;
+}
+
+/* End Related Articles*/
+
+/* Start Footer*/
+footer{
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+    border-radius: 5px 5px;
+}
+.footer-main{
+    width: 90%;
+    background-color: #242424;
+    overflow-x: hidden;
+    float: left;
+    margin-left: 75px;
+    border-radius: 0px 0px 10px 10px;
+    
+}
+.container{
+
+    width: 100%;
+    float: left;
+    
+}
+
+.footer-main-wrapper{
+    width: 100%;
+    padding: 60px 170px;
+    color: #fff;
+    float: left;
+}
+.footer-section-single{
+    width: 12%;
+    float:left;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #cfcfcf;
+   
+    
+    
+}
+.footer-section-social{
+    width: 12%;
+    float:left;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #cfcfcf;
+    padding: 40px;
+   
+    
+    
+}
+.footer-section-single strong{
+    font-size: 12px;
+    
+    
+}
+
+.footer-a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #cfcfcf;
+    line-height: 1.4;
+    font-size: 10px;
+
+}
+
+.hyperlink{
+    width: 70%;
+    border-top: 1px solid #4e4e4e94;
+    line-height: 70px;
+    min-height: 70px;
+    font-weight: bold;
+    position: relative;
+    float: left;
+   
+}
+.fitness-footer{
+    width: 30%;
+    float: left;
+    margin: -55px 0px 0px 0px;
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    color: #cfcfcf;
+}
+
+.footer-menu{
+    width: 100%;
+    float: left;
+    margin: -56px 0px -5px 30px;
+    color: #cfcfcf;
+}
+.footer-menu a{
+    width: 100%;
+    text-decoration: none;
+    color: #cfcfcf;
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+/* End Footer*/
